@@ -1,0 +1,8 @@
+keras_nightly==2.5.0.dev2021032900
+tensorflow~=2.10.1
+numpy~=1.23.5
+nltk~=3.8.1
+keras~=2.10.0
+
+future~=0.18.2
+kivy~=2.1.0
